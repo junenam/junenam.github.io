@@ -532,6 +532,11 @@ section::after {
   font-size: 65px;
   font-weight: 400;
 }
+.tp-caption.medium_white_light {
+  color: #ffffff;
+  font-size: 35px;
+  font-weight: 400;
+}
 .tp-caption.large_white_light {
   color: #ffffff;
   font-size: 65px;
