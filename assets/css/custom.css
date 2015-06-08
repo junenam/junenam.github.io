@@ -4173,8 +4173,9 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   margin-bottom: 0;
   border-width: 1px 0 0;
 }
+/*asdfadsfdassadfadsfasdfasdfadsfasdfasdfasdfasdfas*/
 .navbar-brand {
-  float: left;
+  float: bottom;
   height: 50px;
   padding: 15px 15px;
   font-size: 18px;
@@ -6738,8 +6739,4 @@ sr-only {
 }
 [role="button"] {
   cursor: pointer;
-}
-
-.glyphicon-barcode:before {
-  content: "\e040";
 }
