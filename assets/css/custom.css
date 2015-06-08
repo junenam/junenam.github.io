@@ -6683,7 +6683,7 @@ form .popover .controls {
 }
 
 form .popover .control-label {
-  text-align: left;
+  text-align: left; 
 }
 
 form .popover form {
@@ -6695,7 +6695,7 @@ form .popover form {
 }
 
 .target:after{
-  float:left;
+   float:left; 
   content: " ";
   height: 77px; 
   margin-top: 3px;
