@@ -4173,9 +4173,9 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   margin-bottom: 0;
   border-width: 1px 0 0;
 }
-/*asdfadsfdassadfadsfasdfasdfadsfasdfasdfasdfasdfas*/
+
 .navbar-brand {
-  float: bottom;
+  float: left;
   height: 50px;
   padding: 15px 15px;
   font-size: 18px;
