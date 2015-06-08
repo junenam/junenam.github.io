@@ -6739,3 +6739,7 @@ sr-only {
 [role="button"] {
   cursor: pointer;
 }
+
+.glyphicon-barcode:before {
+  content: "\e040";
+}
